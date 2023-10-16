@@ -1,6 +1,6 @@
 # Validador triangulo
 
-#Apresentação
+#Apresentação.
 print('\n\t\t\t -- Validador de Triângulo -- \n\n')
 
 #Entrada
